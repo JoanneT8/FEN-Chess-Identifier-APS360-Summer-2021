@@ -1,5 +1,6 @@
 # FEN-Chess-Identifier-APS360-Summer-2021
 APS360 Summer 2021 Team Repo (Group 3)
+
 Team members: John Lee, Kevin Karam, Morgan Tran, Joanne Tan
 
 # Introduction 
