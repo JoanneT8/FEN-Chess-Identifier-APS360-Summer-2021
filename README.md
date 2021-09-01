@@ -3,6 +3,11 @@ APS360 Summer 2021 Team Repo (Group 3)
 
 Team members: John Lee, Kevin Karam, Morgan Tran, Joanne Tan
 
+## Google Colab Shared Link
+Baseline Model Link: https://colab.research.google.com/drive/1hBLG7VLoNU6S6vvo8Ff9rpU0ix5F1Wwj?usp=sharing
+
+Main Model Link: https://colab.research.google.com/drive/1gLG2Td7MzgWcH2JUzr1E3Rst3kRTovYm?usp=sharing 
+
 # Introduction 
 The goal of this project is to generate Forsyth-Edwards Notation (FEN) descriptions for a particular chess game from a picture of a 2D-board. Machine learning is a reasonable approach for this project as it involves multi-classification of 12 chess pieces and properly outputting FEN. The motivation behind the project was based on an overall team interest in chess and how to effectively store and use the chessboard data (FEN) from games. With the recent rise in popularity in chess, this project has big implications on the chess community where people can easily take images from a professional game and quickly analyse it. 
 
