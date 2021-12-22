@@ -9,7 +9,7 @@ Baseline Model Link: https://colab.research.google.com/drive/1hBLG7VLoNU6S6vvo8F
 Main Model Link: https://colab.research.google.com/drive/1gLG2Td7MzgWcH2JUzr1E3Rst3kRTovYm?usp=sharing 
 
 # Introduction 
-The goal of this project is to generate Forsyth-Edwards Notation (FEN) descriptions for a particular chess game from a picture of a 2D-board. Machine learning is a reasonable approach for this project as it involves multi-classification of 12 chess pieces and properly outputting FEN. The motivation behind the project was based on an overall team interest in chess and how to effectively store and use the chessboard data (FEN) from games. With the recent rise in popularity in chess, this project has big implications on the chess community where people can easily take images from a professional game and quickly analyse it. 
+The goal of this project is to generate Forsyth-Edwards Notation (FEN) descriptions for a particular chess game from a picture of a 2D-board. Machine learning is a reasonable approach for this project as it involves multi-classification of 12 chess pieces and properly outputting FEN. The motivation behind the project was based on an overall team interest in chess and how to effectively store and use the chessboard data (FEN) from games. With the recent rise in popularity in chess, this project has big implications on the chess community where people can easily take images from a professional game and quickly analyze it. 
 
 # Overview of Project Use Case 
 ![FEN Generation Process Flow Chart](https://user-images.githubusercontent.com/32041321/131747852-ec885f75-1816-4507-9f94-7ee0fea20d46.jpeg)
